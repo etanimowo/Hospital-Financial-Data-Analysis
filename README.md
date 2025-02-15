@@ -24,6 +24,6 @@ This project analyzes hospital financial data, focusing on billing, insurance cl
 •	Implement machine learning to predict claim approval likelihood 
 •	Expand dataset to include patient demographics & treatment costs 
 
-## 💡 This project showcases my ability to analyze financial datasets, extract actionable insights, and create data-driven solutions for better decision-making in the healthcare sector.
+💡 This project showcases my ability to analyze financial datasets, extract actionable insights, and create data-driven solutions for better decision-making in the healthcare sector.
 
 📬 Want to collaborate? Feel free to reach out! 😊
